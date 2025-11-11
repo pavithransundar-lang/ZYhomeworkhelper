@@ -1,0 +1,5 @@
+{
+  "name": "ZY Homework Helper",
+  "description": "A friendly popup assistant to remind students about their homework and answer their questions using the Gemini API.",
+  "requestFramePermissions": []
+}
